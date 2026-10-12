@@ -99,4 +99,4 @@ st.pyplot(fig)
 
 # Thông tin tác giả ở cuối trang (chữ nhỏ)
 st.markdown("---")
-st.caption("Họ và tên: Lâm Quang Huy | MSSV: 23520609")
+st.caption("Họ và tên: Mai Quang Nhật | MSSV: 066208006404")
